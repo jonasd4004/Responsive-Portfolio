@@ -1,0 +1,52 @@
+.container1 {
+    position: relative;
+    text-align: center;
+    color: white;
+    float: left;
+}
+
+.bottom-center {
+    position: absolute;
+    top: 67%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #4aaaa5;
+    color: white;
+    padding-top: 7px;
+    padding-bottom: 4px;
+    width: 300px;
+    
+}
+
+.container2 {
+    position: relative;
+    text-align: center;
+    color: white;
+    float: left;
+}
+
+.container3 {
+    position: relative;
+    text-align: center;
+    color: white;
+    float: left;
+}
+
+.container4 {
+    position: relative;
+    text-align: center;
+    color: white;
+    float: left;
+}
+
+.container5 {
+    position: relative;
+    text-align: center;
+    color: white;
+    float: left;
+}
+
+img {
+    margin: 10px 10px 10px 10px;
+}
+
